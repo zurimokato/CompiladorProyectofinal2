@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>QtImages/95392_document_1024x1024.png</file>
+        <file>QtImages/compfile.png</file>
+        <file>QtImages/flaticon-save.png</file>
+        <file>QtImages/Open folder.png</file>
+        <file>QtImages/save-as-icon.png</file>
+        <file>QtImages/user_man_info_21954.png</file>
+    </qresource>
+</RCC>
